@@ -16,19 +16,15 @@
   ],
   "author": "Ievgen Kyvgyla <hello@kivgila.pro>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dallask/graphql-essential-training/issues"
-  },
-  "homepage": "https://github.com/dallask/graphql-essential-training#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "express-graphql": "^0.11.0",
-    "graphql": "^15.4.0",
-    "nodemon": "^2.0.6"
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7",
+    "nodemon": "^1.12.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0",
+    "babel-preset-env": "^1.6.1",
     "babel-preset-stage-0": "^6.24.1"
   }
 }
