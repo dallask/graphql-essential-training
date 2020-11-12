@@ -17,12 +17,16 @@
   "author": "Ievgen Kyvgyla <hello@kivgila.pro>",
   "license": "ISC",
   "dependencies": {
+    "casual": "^1.6.2",
     "express": "^4.16.2",
     "express-graphql": "^0.6.11",
     "graphql": "^0.11.7",
     "graphql-tools": "^7.0.1",
+    "lodash": "^4.17.20",
     "mongoose": "^5.10.13",
-    "nodemon": "^1.12.1"
+    "nodemon": "^1.19.4",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
